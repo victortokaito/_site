@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
+    <link href="http://localhost:4000feed.xml" rel="self" type="application/atom+xml" />
+    <link href="http://localhost:4000" rel="alternate" type="text/html"/>
+    <updated>2020-06-12T17:20:12-07:00</updated>
+    <id>2020-06-12T17:20:12-07:00</id>
+    <title type="html">victor's photos</title>
+    <subtitle>@victortokaito's minimalistic, self-hosted photo stream.</subtitle>
+    <author>
+      <name>Victor Tokaito</name>
+      <uri>https://sleepydogpro.github.io</uri>
+    </author>
+    <entry>
+      <title type="html">craquel_character_@simulation_Low_poly_ushu_2 copy</title>
+      <link href="http://localhost:4000craquel-character-simulation-low-poly-ushu-2-copy/" rel="alternate" type="text/html" title="craquel_character_@simulation_Low_poly_ushu_2 copy" />
+      <published>2020-03-20T22:10:42-07:00</published>
+      <updated>2020-03-20T22:10:42-07:00</updated>
+      <id>http://localhost:4000/craquel-character-simulation-low-poly-ushu-2-copy/</id>
+      <content type="html">
+        <![CDATA[<figure><a href="http://localhost:4000craquel-character-simulation-low-poly-ushu-2-copy/"><img src="http://localhost:4000/photos/large/craquel_character_@simulation_Low_poly_ushu_2%20copy-686656.jpg" alt="craquel_character_@simulation_Low_poly_ushu_2 copy" /></a></figure>
+      ]]>
+    </content>
+    <author>
+      <name>Victor Tokaito</name>
+      <uri>https://sleepydogpro.github.io</uri>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/craquel_character_@simulation_Low_poly_ushu_2%20copy-686656.jpg" />
+      <media:content medium="image" url="http://localhost:4000/photos/large/craquel_character_@simulation_Low_poly_ushu_2%20copy-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      </entry>
+      <entry>
+        <title type="html">mtfitz_roy_victor_post_2 copy 2</title>
+        <link href="http://localhost:4000mtfitz-roy-victor-post-2-copy-2/" rel="alternate" type="text/html" title="mtfitz_roy_victor_post_2 copy 2" />
+        <published>2020-03-20T16:28:31-07:00</published>
+        <updated>2020-03-20T16:28:31-07:00</updated>
+        <id>http://localhost:4000/mtfitz-roy-victor-post-2-copy-2/</id>
+        <content type="html">
+          <![CDATA[<figure><a href="http://localhost:4000mtfitz-roy-victor-post-2-copy-2/"><img src="http://localhost:4000/photos/large/mtfitz_roy_victor_post_2%20copy%202-686656.jpg" alt="mtfitz_roy_victor_post_2 copy 2" /></a></figure>
+        ]]>
+      </content>
+      <author>
+        <name>Victor Tokaito</name>
+        <uri>https://sleepydogpro.github.io</uri>
+      </author>
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/mtfitz_roy_victor_post_2%20copy%202-686656.jpg" />
+        <media:content medium="image" url="http://localhost:4000/photos/large/mtfitz_roy_victor_post_2%20copy%202-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        </entry>
+        <entry>
+          <title type="html">Stubborn</title>
+          <link href="http://localhost:4000stubborn/" rel="alternate" type="text/html" title="Stubborn" />
+          <published>2020-03-12T22:06:58-07:00</published>
+          <updated>2020-03-12T22:06:58-07:00</updated>
+          <id>http://localhost:4000/stubborn/</id>
+          <content type="html">
+            <![CDATA[<figure><a href="http://localhost:4000stubborn/"><img src="http://localhost:4000/photos/large/Stubborn-686656.jpg" alt="Stubborn" /></a></figure>
+          ]]>
+        </content>
+        <author>
+          <name>Victor Tokaito</name>
+          <uri>https://sleepydogpro.github.io</uri>
+        </author>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Stubborn-686656.jpg" />
+          <media:content medium="image" url="http://localhost:4000/photos/large/Stubborn-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          </entry>
+          <entry>
+            <title type="html">Peak</title>
+            <link href="http://localhost:4000peak/" rel="alternate" type="text/html" title="Peak" />
+            <published>2020-03-12T21:59:21-07:00</published>
+            <updated>2020-03-12T21:59:21-07:00</updated>
+            <id>http://localhost:4000/peak/</id>
+            <content type="html">
+              <![CDATA[<figure><a href="http://localhost:4000peak/"><img src="http://localhost:4000/photos/large/Peak-686656.jpg" alt="Peak" /></a></figure>
+            ]]>
+          </content>
+          <author>
+            <name>Victor Tokaito</name>
+            <uri>https://sleepydogpro.github.io</uri>
+          </author>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Peak-686656.jpg" />
+            <media:content medium="image" url="http://localhost:4000/photos/large/Peak-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            </entry>
+            <entry>
+              <title type="html">New Windmill</title>
+              <link href="http://localhost:4000new-windmill/" rel="alternate" type="text/html" title="New Windmill" />
+              <published>2020-02-03T13:30:00-08:00</published>
+              <updated>2020-02-03T13:30:00-08:00</updated>
+              <id>http://localhost:4000/new-windmill/</id>
+              <content type="html">
+                <![CDATA[<figure><a href="http://localhost:4000new-windmill/"><img src="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" alt="New Windmill" /></a></figure>
+              ]]>
+            </content>
+            <author>
+              <name>Victor Tokaito</name>
+              <uri>https://sleepydogpro.github.io</uri>
+            </author>
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" />
+              <media:content medium="image" url="http://localhost:4000/photos/large/New%20Windmill-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              </entry>
+              <entry>
+                <title type="html">Sheep</title>
+                <link href="http://localhost:4000sheep/" rel="alternate" type="text/html" title="Sheep" />
+                <published>2020-02-03T13:29:37-08:00</published>
+                <updated>2020-02-03T13:29:37-08:00</updated>
+                <id>http://localhost:4000/sheep/</id>
+                <content type="html">
+                  <![CDATA[<figure><a href="http://localhost:4000sheep/"><img src="http://localhost:4000/photos/large/Sheep-686656.jpg" alt="Sheep" /></a></figure>
+                ]]>
+              </content>
+              <author>
+                <name>Victor Tokaito</name>
+                <uri>https://sleepydogpro.github.io</uri>
+              </author>
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Sheep-686656.jpg" />
+                <media:content medium="image" url="http://localhost:4000/photos/large/Sheep-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                </entry>
+                <entry>
+                  <title type="html">Way Out</title>
+                  <link href="http://localhost:4000way-out/" rel="alternate" type="text/html" title="Way Out" />
+                  <published>2020-01-06T13:11:31-08:00</published>
+                  <updated>2020-01-06T13:11:31-08:00</updated>
+                  <id>http://localhost:4000/way-out/</id>
+                  <content type="html">
+                    <![CDATA[<figure><a href="http://localhost:4000way-out/"><img src="http://localhost:4000/photos/large/Way%20Out-686656.jpg" alt="Way Out" /></a></figure>
+                  ]]>
+                </content>
+                <author>
+                  <name>Victor Tokaito</name>
+                  <uri>https://sleepydogpro.github.io</uri>
+                </author>
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Way%20Out-686656.jpg" />
+                  <media:content medium="image" url="http://localhost:4000/photos/large/Way%20Out-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  </entry>
+                  <entry>
+                    <title type="html">Rainy Walk</title>
+                    <link href="http://localhost:4000rainy-walk/" rel="alternate" type="text/html" title="Rainy Walk" />
+                    <published>2019-11-11T16:26:39-08:00</published>
+                    <updated>2019-11-11T16:26:39-08:00</updated>
+                    <id>http://localhost:4000/rainy-walk/</id>
+                    <content type="html">
+                      <![CDATA[<figure><a href="http://localhost:4000rainy-walk/"><img src="http://localhost:4000/photos/large/Rainy%20Walk-686656.jpg" alt="Rainy Walk" /></a></figure>
+                    ]]>
+                  </content>
+                  <author>
+                    <name>Victor Tokaito</name>
+                    <uri>https://sleepydogpro.github.io</uri>
+                  </author>
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Rainy%20Walk-686656.jpg" />
+                    <media:content medium="image" url="http://localhost:4000/photos/large/Rainy%20Walk-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    </entry>
+                    <entry>
+                      <title type="html">Oh So Bright</title>
+                      <link href="http://localhost:4000oh-so-bright/" rel="alternate" type="text/html" title="Oh So Bright" />
+                      <published>2019-09-23T10:21:36-07:00</published>
+                      <updated>2019-09-23T10:21:36-07:00</updated>
+                      <id>http://localhost:4000/oh-so-bright/</id>
+                      <content type="html">
+                        <![CDATA[<figure><a href="http://localhost:4000oh-so-bright/"><img src="http://localhost:4000/photos/large/Oh%20So%20Bright-686656.jpg" alt="Oh So Bright" /></a></figure>
+                      ]]>
+                    </content>
+                    <author>
+                      <name>Victor Tokaito</name>
+                      <uri>https://sleepydogpro.github.io</uri>
+                    </author>
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Oh%20So%20Bright-686656.jpg" />
+                      <media:content medium="image" url="http://localhost:4000/photos/large/Oh%20So%20Bright-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      </entry>
+                      <entry>
+                        <title type="html">The Other Train</title>
+                        <link href="http://localhost:4000the-other-train/" rel="alternate" type="text/html" title="The Other Train" />
+                        <published>2019-09-21T00:58:11-07:00</published>
+                        <updated>2019-09-21T00:58:11-07:00</updated>
+                        <id>http://localhost:4000/the-other-train/</id>
+                        <content type="html">
+                          <![CDATA[<figure><a href="http://localhost:4000the-other-train/"><img src="http://localhost:4000/photos/large/The%20Other%20Train-686656.jpg" alt="The Other Train" /></a></figure>
+                        ]]>
+                      </content>
+                      <author>
+                        <name>Victor Tokaito</name>
+                        <uri>https://sleepydogpro.github.io</uri>
+                      </author>
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/The%20Other%20Train-686656.jpg" />
+                        <media:content medium="image" url="http://localhost:4000/photos/large/The%20Other%20Train-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        </entry>
+                        <entry>
+                          <title type="html">Train Entering the Station</title>
+                          <link href="http://localhost:4000train-entering-the-station/" rel="alternate" type="text/html" title="Train Entering the Station" />
+                          <published>2019-09-21T00:54:35-07:00</published>
+                          <updated>2019-09-21T00:54:35-07:00</updated>
+                          <id>http://localhost:4000/train-entering-the-station/</id>
+                          <content type="html">
+                            <![CDATA[<figure><a href="http://localhost:4000train-entering-the-station/"><img src="http://localhost:4000/photos/large/Train%20Entering%20the%20Station-686656.jpg" alt="Train Entering the Station" /></a></figure>
+                          ]]>
+                        </content>
+                        <author>
+                          <name>Victor Tokaito</name>
+                          <uri>https://sleepydogpro.github.io</uri>
+                        </author>
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Train%20Entering%20the%20Station-686656.jpg" />
+                          <media:content medium="image" url="http://localhost:4000/photos/large/Train%20Entering%20the%20Station-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          </entry>
+                          <entry>
+                            <title type="html">Neon Oysters</title>
+                            <link href="http://localhost:4000neon-oysters/" rel="alternate" type="text/html" title="Neon Oysters" />
+                            <published>2019-09-12T13:28:28-07:00</published>
+                            <updated>2019-09-12T13:28:28-07:00</updated>
+                            <id>http://localhost:4000/neon-oysters/</id>
+                            <content type="html">
+                              <![CDATA[<figure><a href="http://localhost:4000neon-oysters/"><img src="http://localhost:4000/photos/large/Neon%20Oysters-686656.jpg" alt="Neon Oysters" /></a></figure>
+                            ]]>
+                          </content>
+                          <author>
+                            <name>Victor Tokaito</name>
+                            <uri>https://sleepydogpro.github.io</uri>
+                          </author>
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Neon%20Oysters-686656.jpg" />
+                            <media:content medium="image" url="http://localhost:4000/photos/large/Neon%20Oysters-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            </entry>
+                            <entry>
+                              <title type="html">That Point Reyes Road</title>
+                              <link href="http://localhost:4000that-point-reyes-road/" rel="alternate" type="text/html" title="That Point Reyes Road" />
+                              <published>2019-09-12T13:27:44-07:00</published>
+                              <updated>2019-09-12T13:27:44-07:00</updated>
+                              <id>http://localhost:4000/that-point-reyes-road/</id>
+                              <content type="html">
+                                <![CDATA[<figure><a href="http://localhost:4000that-point-reyes-road/"><img src="http://localhost:4000/photos/large/That%20Point%20Reyes%20Road-686656.jpg" alt="That Point Reyes Road" /></a></figure>
+                              ]]>
+                            </content>
+                            <author>
+                              <name>Victor Tokaito</name>
+                              <uri>https://sleepydogpro.github.io</uri>
+                            </author>
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/That%20Point%20Reyes%20Road-686656.jpg" />
+                              <media:content medium="image" url="http://localhost:4000/photos/large/That%20Point%20Reyes%20Road-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              </entry>
+                              <entry>
+                                <title type="html">Point Reyes Wreck Bow</title>
+                                <link href="http://localhost:4000point-reyes-wreck-bow/" rel="alternate" type="text/html" title="Point Reyes Wreck Bow" />
+                                <published>2019-09-12T13:23:14-07:00</published>
+                                <updated>2019-09-12T13:23:14-07:00</updated>
+                                <id>http://localhost:4000/point-reyes-wreck-bow/</id>
+                                <content type="html">
+                                  <![CDATA[<figure><a href="http://localhost:4000point-reyes-wreck-bow/"><img src="http://localhost:4000/photos/large/Point%20Reyes%20Wreck%20Bow-686656.jpg" alt="Point Reyes Wreck Bow" /></a></figure>
+                                ]]>
+                              </content>
+                              <author>
+                                <name>Victor Tokaito</name>
+                                <uri>https://sleepydogpro.github.io</uri>
+                              </author>
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Point%20Reyes%20Wreck%20Bow-686656.jpg" />
+                                <media:content medium="image" url="http://localhost:4000/photos/large/Point%20Reyes%20Wreck%20Bow-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                </entry>
+                                <entry>
+                                  <title type="html">Sunlight Creeping In</title>
+                                  <link href="http://localhost:4000sunlight-creeping-in/" rel="alternate" type="text/html" title="Sunlight Creeping In" />
+                                  <published>2019-09-12T13:22:32-07:00</published>
+                                  <updated>2019-09-12T13:22:32-07:00</updated>
+                                  <id>http://localhost:4000/sunlight-creeping-in/</id>
+                                  <content type="html">
+                                    <![CDATA[<figure><a href="http://localhost:4000sunlight-creeping-in/"><img src="http://localhost:4000/photos/large/Sunlight%20Creeping%20In-686656.jpg" alt="Sunlight Creeping In" /></a></figure>
+                                  ]]>
+                                </content>
+                                <author>
+                                  <name>Victor Tokaito</name>
+                                  <uri>https://sleepydogpro.github.io</uri>
+                                </author>
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Sunlight%20Creeping%20In-686656.jpg" />
+                                  <media:content medium="image" url="http://localhost:4000/photos/large/Sunlight%20Creeping%20In-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  </entry>
+                                  <entry>
+                                    <title type="html">Rain in Portland</title>
+                                    <link href="http://localhost:4000rain-in-portland/" rel="alternate" type="text/html" title="Rain in Portland" />
+                                    <published>2019-09-09T11:24:10-07:00</published>
+                                    <updated>2019-09-09T11:24:10-07:00</updated>
+                                    <id>http://localhost:4000/rain-in-portland/</id>
+                                    <content type="html">
+                                      <![CDATA[<figure><a href="http://localhost:4000rain-in-portland/"><img src="http://localhost:4000/photos/large/Rain%20in%20Portland-686656.jpg" alt="Rain in Portland" /></a></figure>
+                                    ]]>
+                                  </content>
+                                  <author>
+                                    <name>Victor Tokaito</name>
+                                    <uri>https://sleepydogpro.github.io</uri>
+                                  </author>
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Rain%20in%20Portland-686656.jpg" />
+                                    <media:content medium="image" url="http://localhost:4000/photos/large/Rain%20in%20Portland-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    </entry>
+                                    <entry>
+                                      <title type="html">Grad-178 copy</title>
+                                      <link href="http://localhost:4000grad-178-copy/" rel="alternate" type="text/html" title="Grad-178 copy" />
+                                      <published>2019-05-14T21:54:06-07:00</published>
+                                      <updated>2019-05-14T21:54:06-07:00</updated>
+                                      <id>http://localhost:4000/grad-178-copy/</id>
+                                      <content type="html">
+                                        <![CDATA[<figure><a href="http://localhost:4000grad-178-copy/"><img src="http://localhost:4000/photos/large/Grad-178%20copy-686656.jpg" alt="Grad-178 copy" /></a></figure>
+                                      ]]>
+                                    </content>
+                                    <author>
+                                      <name>Victor Tokaito</name>
+                                      <uri>https://sleepydogpro.github.io</uri>
+                                    </author>
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Grad-178%20copy-686656.jpg" />
+                                      <media:content medium="image" url="http://localhost:4000/photos/large/Grad-178%20copy-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      </entry>
+                                      <entry>
+                                        <title type="html">Argentina_mountain_finfb copy</title>
+                                        <link href="http://localhost:4000argentina-mountain-finfb-copy/" rel="alternate" type="text/html" title="Argentina_mountain_finfb copy" />
+                                        <published>2019-04-13T20:06:46-07:00</published>
+                                        <updated>2019-04-13T20:06:46-07:00</updated>
+                                        <id>http://localhost:4000/argentina-mountain-finfb-copy/</id>
+                                        <content type="html">
+                                          <![CDATA[<figure><a href="http://localhost:4000argentina-mountain-finfb-copy/"><img src="http://localhost:4000/photos/large/Argentina_mountain_finfb%20copy-686656.jpg" alt="Argentina_mountain_finfb copy" /></a></figure>
+                                        ]]>
+                                      </content>
+                                      <author>
+                                        <name>Victor Tokaito</name>
+                                        <uri>https://sleepydogpro.github.io</uri>
+                                      </author>
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Argentina_mountain_finfb%20copy-686656.jpg" />
+                                        <media:content medium="image" url="http://localhost:4000/photos/large/Argentina_mountain_finfb%20copy-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        </entry>
+                                        <entry>
+                                          <title type="html">Argentina_Lake_finfb copy</title>
+                                          <link href="http://localhost:4000argentina-lake-finfb-copy/" rel="alternate" type="text/html" title="Argentina_Lake_finfb copy" />
+                                          <published>2019-03-28T15:50:42-07:00</published>
+                                          <updated>2019-03-28T15:50:42-07:00</updated>
+                                          <id>http://localhost:4000/argentina-lake-finfb-copy/</id>
+                                          <content type="html">
+                                            <![CDATA[<figure><a href="http://localhost:4000argentina-lake-finfb-copy/"><img src="http://localhost:4000/photos/large/Argentina_Lake_finfb%20copy-686656.jpg" alt="Argentina_Lake_finfb copy" /></a></figure>
+                                          ]]>
+                                        </content>
+                                        <author>
+                                          <name>Victor Tokaito</name>
+                                          <uri>https://sleepydogpro.github.io</uri>
+                                        </author>
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/Argentina_Lake_finfb%20copy-686656.jpg" />
+                                          <media:content medium="image" url="http://localhost:4000/photos/large/Argentina_Lake_finfb%20copy-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          </entry>
+                                          <entry>
+                                            <title type="html">IMG_6570</title>
+                                            <link href="http://localhost:4000img-6570/" rel="alternate" type="text/html" title="IMG_6570" />
+                                            <published>2019-03-15T19:34:16-07:00</published>
+                                            <updated>2019-03-15T19:34:16-07:00</updated>
+                                            <id>http://localhost:4000/img-6570/</id>
+                                            <content type="html">
+                                              <![CDATA[<figure><a href="http://localhost:4000img-6570/"><img src="http://localhost:4000/photos/large/IMG_6570-686656.jpeg" alt="IMG_6570" /></a></figure>
+                                            ]]>
+                                          </content>
+                                          <author>
+                                            <name>Victor Tokaito</name>
+                                            <uri>https://sleepydogpro.github.io</uri>
+                                          </author>
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/photos/large/IMG_6570-686656.jpeg" />
+                                            <media:content medium="image" url="http://localhost:4000/photos/large/IMG_6570-686656.jpeg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                            </entry>
+                                          </feed>
